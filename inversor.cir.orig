@@ -14,7 +14,11 @@ C1 out 0 5f
 
 
 Vdd vdd GND 1V
+<<<<<<< HEAD
+M1 out in vdd vdd   PMOS L=45n W=360n
+=======
 M1 out in vdd vdd   PMOS L=45n W=180n
+>>>>>>> 9b85bf6 (inversor)
 M2 out in GND GND   NMOS L=45n W=180n
 
 .control
