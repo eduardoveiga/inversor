@@ -4,10 +4,10 @@ Inversor
 *Descricao do circuito
 
 **fontes
- Vin in GND PULSE (0 1 0 20p 20p 500p 1000p)
+ Vin in GND PULSE (0 1 0 20p 20p 800p 2000p)
 
 **capacitancia de saida
-C1 out 0 32f
+C1 out 0 64f
 
 
 
@@ -24,7 +24,7 @@ plot in out
 
 
 *Parametros de Simulação
-.tran 1p 2000p
+.tran 1p 3000p
 
 *---- Tempo de propagacao
 .measure tran tphl_a trig v(in) val=0.5 rise=1 targ V(out) val=0.5 fall=1
