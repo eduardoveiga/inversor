@@ -4,7 +4,7 @@ Inversor
 *Descricao do circuito
 
 **fontes
- Vin in GND PULSE (0 1 0 32p 32p 200p {64p+200p+160p})
+ Vin in GND PULSE (0 1 0 64p 64p 200p {128p+200p+160p})
 
 **capacitancia de saida
 C1 out 0 5f
