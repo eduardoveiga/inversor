@@ -4,7 +4,7 @@ Inversor
 *Descricao do circuito
 
 **fontes
- Vin in GND PULSE (0 1 0 1p 1p 200p 260p)
+ Vin in GND PULSE (0 1 0 2p 2p 200p 260p)
 
 **capacitancia de saida
 C1 out 0 5f
